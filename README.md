@@ -12,4 +12,5 @@ This file is written in Python. This project was for the UC Berkeley CS61A
 course; therefore, staff files like tests and GUI files are not included 
 
 ![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224518/e0d12f32-b7a7-11e5-8c03-2afde9f28bce.png)
+
 GUI/images by UC Berkeley CS61A staff
