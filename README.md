@@ -11,6 +11,6 @@ statistical predictions of those plays.
 This file is written in Python. This project was for the UC Berkeley CS61A
 course; therefore, staff files like tests and GUI files are not included 
 
-![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224518/e0d12f32-b7a7-11e5-8c03-2afde9f28bce.png)
+![hog](https://cloud.githubusercontent.com/assets/12720744/17600560/e6069f82-5fb8-11e6-8ec4-a2c0c6c947ac.gif)
 
 GUI/images by UC Berkeley CS61A staff
